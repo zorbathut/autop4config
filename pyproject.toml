@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "autop4config"
+version = "0.0.1"
+description = "Automatic p4config generator."
+authors = ["Ben Rog-Wilhelm <zorba-git-sharon-vfio@pavlovian.net>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
