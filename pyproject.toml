@@ -7,7 +7,9 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.7"
+toml = "^0.10.2"
+p4python = "^2022.1.2405607"
 
 
 [build-system]

@@ -1,0 +1,3 @@
+[p4]
+port = "perforce.example.com:1666"
+user = "yourusernamehere"
